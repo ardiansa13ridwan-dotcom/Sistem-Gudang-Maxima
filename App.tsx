@@ -1,7 +1,7 @@
 /**
- * MAXIMA WAREHOUSE SYSTEM - V5.0.8 (PRODUCTION READY)
- * Build Signature: 20240320-FINAL-CLEAN-BUILD
- * Status: RESOLUTION FIXED & IMPORTMAP REMOVED.
+ * MAXIMA WAREHOUSE SYSTEM - V5.0.9 (STABLE DEPLOY)
+ * Build Signature: 20240320-FINAL-FIX-NO-IMPORTMAP
+ * Status: CLEANED.
  */
 import React, { useState, useEffect, useCallback } from 'react';
 import Sidebar from './components/Sidebar';
