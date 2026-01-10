@@ -1,3 +1,8 @@
+/**
+ * MAXIMA WAREHOUSE SYSTEM - V5.0.2 (FORCED CLEAN BUILD)
+ * Build Signature: 20240320-X-FIX
+ * Menghilangkan konflik importmap dan memperbaiki resolusi path komponen.
+ */
 import React, { useState, useEffect, useCallback } from 'react';
 import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
