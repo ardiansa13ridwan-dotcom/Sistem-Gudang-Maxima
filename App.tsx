@@ -1,7 +1,7 @@
 /**
- * MAXIMA WAREHOUSE SYSTEM - V5.0.2 (FORCED CLEAN BUILD)
- * Build Signature: 20240320-X-FIX
- * Menghilangkan konflik importmap dan memperbaiki resolusi path komponen.
+ * MAXIMA WAREHOUSE SYSTEM - V5.0.4 (VERIFIED STABLE)
+ * Build Signature: 20240320-FINAL-STABLE
+ * Status: Importmap Removed, Build Clean.
  */
 import React, { useState, useEffect, useCallback } from 'react';
 import Sidebar from './components/Sidebar';
